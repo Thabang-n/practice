@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "bulderPatternPractice\\builderPatternPractice.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Singleton_Pattern_thread_safe\\Singleton_Pattern_thread_safe.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\bin\Debug\net8.0\bulderPatternPractice.exe
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\bin\Debug\net8.0\bulderPatternPractice.deps.json
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\bin\Debug\net8.0\bulderPatternPractice.runtimeconfig.json
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\bin\Debug\net8.0\bulderPatternPractice.dll
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\bin\Debug\net8.0\bulderPatternPractice.pdb
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\obj\Debug\net8.0\bulderPatternPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\obj\Debug\net8.0\bulderPatternPractice.AssemblyInfoInputs.cache
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\obj\Debug\net8.0\bulderPatternPractice.AssemblyInfo.cs
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\obj\Debug\net8.0\bulderPatternPractice.csproj.CoreCompileInputs.cache
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\obj\Debug\net8.0\bulderPatternPractice.sourcelink.json
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\obj\Debug\net8.0\bulderPatternPractice.dll
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\obj\Debug\net8.0\refint\bulderPatternPractice.dll
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\obj\Debug\net8.0\bulderPatternPractice.pdb
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\obj\Debug\net8.0\bulderPatternPractice.genruntimeconfig.cache
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\bulderPatternPractice\obj\Debug\net8.0\ref\bulderPatternPractice.dll

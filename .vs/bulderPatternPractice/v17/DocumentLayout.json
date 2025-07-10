@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Exaze TRSA28\\source\\repos\\bulderPatternPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D101AEF-22D1-4B7B-8157-6C5360ADCDC2}|Singleton_Pattern_thread_safe\\Singleton_Pattern_thread_safe.csproj|c:\\users\\exaze trsa28\\source\\repos\\bulderpatternpractice\\singleton_pattern_thread_safe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D101AEF-22D1-4B7B-8157-6C5360ADCDC2}|Singleton_Pattern_thread_safe\\Singleton_Pattern_thread_safe.csproj|solutionrelative:singleton_pattern_thread_safe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D101AEF-22D1-4B7B-8157-6C5360ADCDC2}|Singleton_Pattern_thread_safe\\Singleton_Pattern_thread_safe.csproj|c:\\users\\exaze trsa28\\source\\repos\\bulderpatternpractice\\singleton_pattern_thread_safe\\mysingletonclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D101AEF-22D1-4B7B-8157-6C5360ADCDC2}|Singleton_Pattern_thread_safe\\Singleton_Pattern_thread_safe.csproj|solutionrelative:singleton_pattern_thread_safe\\mysingletonclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81BBF72-6862-4D55-B670-06B8E6F39808}|bulderPatternPractice\\bulderPatternPractice.csproj|c:\\users\\exaze trsa28\\source\\repos\\bulderpatternpractice\\bulderpatternpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81BBF72-6862-4D55-B670-06B8E6F39808}|bulderPatternPractice\\bulderPatternPractice.csproj|solutionrelative:bulderpatternpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81BBF72-6862-4D55-B670-06B8E6F39808}|bulderPatternPractice\\bulderPatternPractice.csproj|c:\\users\\exaze trsa28\\source\\repos\\bulderpatternpractice\\bulderpatternpractice\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81BBF72-6862-4D55-B670-06B8E6F39808}|bulderPatternPractice\\bulderPatternPractice.csproj|solutionrelative:bulderpatternpractice\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81BBF72-6862-4D55-B670-06B8E6F39808}|bulderPatternPractice\\bulderPatternPractice.csproj|c:\\users\\exaze trsa28\\source\\repos\\bulderpatternpractice\\bulderpatternpractice\\productbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81BBF72-6862-4D55-B670-06B8E6F39808}|bulderPatternPractice\\bulderPatternPractice.csproj|solutionrelative:bulderpatternpractice\\productbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\source\\repos\\bulderPatternPractice\\bulderPatternPractice\\ProductBuilder.cs",
+              "RelativeDocumentMoniker": "bulderPatternPractice\\ProductBuilder.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\source\\repos\\bulderPatternPractice\\bulderPatternPractice\\ProductBuilder.cs",
+              "RelativeToolTip": "bulderPatternPractice\\ProductBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:48:25.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\source\\repos\\bulderPatternPractice\\bulderPatternPractice\\Product.cs",
+              "RelativeDocumentMoniker": "bulderPatternPractice\\Product.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\source\\repos\\bulderPatternPractice\\bulderPatternPractice\\Product.cs",
+              "RelativeToolTip": "bulderPatternPractice\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:28:50.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MySingletonClass.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\source\\repos\\bulderPatternPractice\\Singleton_Pattern_thread_safe\\MySingletonClass.cs",
+              "RelativeDocumentMoniker": "Singleton_Pattern_thread_safe\\MySingletonClass.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\source\\repos\\bulderPatternPractice\\Singleton_Pattern_thread_safe\\MySingletonClass.cs",
+              "RelativeToolTip": "Singleton_Pattern_thread_safe\\MySingletonClass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:56:10.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\source\\repos\\bulderPatternPractice\\Singleton_Pattern_thread_safe\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton_Pattern_thread_safe\\Program.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\source\\repos\\bulderPatternPractice\\Singleton_Pattern_thread_safe\\Program.cs",
+              "RelativeToolTip": "Singleton_Pattern_thread_safe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T11:55:12.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Exaze TRSA28\\source\\repos\\bulderPatternPractice\\bulderPatternPractice\\Program.cs",
+              "RelativeDocumentMoniker": "bulderPatternPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\Exaze TRSA28\\source\\repos\\bulderPatternPractice\\bulderPatternPractice\\Program.cs",
+              "RelativeToolTip": "bulderPatternPractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:25:31.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

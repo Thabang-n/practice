@@ -1,0 +1,15 @@
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\bin\Debug\net8.0\Singleton_Pattern_thread_safe.exe
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\bin\Debug\net8.0\Singleton_Pattern_thread_safe.deps.json
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\bin\Debug\net8.0\Singleton_Pattern_thread_safe.runtimeconfig.json
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\bin\Debug\net8.0\Singleton_Pattern_thread_safe.dll
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\bin\Debug\net8.0\Singleton_Pattern_thread_safe.pdb
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\obj\Debug\net8.0\Singleton_Pattern_thread_safe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\obj\Debug\net8.0\Singleton_Pattern_thread_safe.AssemblyInfoInputs.cache
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\obj\Debug\net8.0\Singleton_Pattern_thread_safe.AssemblyInfo.cs
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\obj\Debug\net8.0\Singleton_Pattern_thread_safe.csproj.CoreCompileInputs.cache
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\obj\Debug\net8.0\Singleton_Pattern_thread_safe.sourcelink.json
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\obj\Debug\net8.0\Singleton_Pattern_thread_safe.dll
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\obj\Debug\net8.0\refint\Singleton_Pattern_thread_safe.dll
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\obj\Debug\net8.0\Singleton_Pattern_thread_safe.pdb
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\obj\Debug\net8.0\Singleton_Pattern_thread_safe.genruntimeconfig.cache
+C:\Users\Exaze TRSA28\source\repos\bulderPatternPractice\Singleton_Pattern_thread_safe\obj\Debug\net8.0\ref\Singleton_Pattern_thread_safe.dll
