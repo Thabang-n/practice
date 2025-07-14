@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Adapter_Abstraction_Practice/1.0.0": {
+        "runtime": {
+          "Adapter_Abstraction_Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adapter_Abstraction_Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
